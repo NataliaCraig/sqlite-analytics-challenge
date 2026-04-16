@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "SQL Analytics",
+            "database": "bais_sqlite_lab.db"
+        }
+    ]
+}
